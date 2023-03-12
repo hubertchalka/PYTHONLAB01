@@ -1,2 +1,5 @@
 from playsound import playsound
-playsound(".\sample4.mp3")
+
+path = "ścieżka/do/pliku/sample4.mp3"
+
+playsound(path)
